@@ -1,2 +1,6 @@
 This is the First File First Line
+<<<<<<< HEAD
 This is the Second Line Updated In Git Bash 
+=======
+This is the Second Line Updated In Git Hub
+>>>>>>> f05cab3943595dd963f592861cae7ac6e6593f2f
